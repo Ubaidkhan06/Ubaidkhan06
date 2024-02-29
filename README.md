@@ -14,13 +14,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
 ### :woman_technologist: About Me :
 
 👋 Hello! I'm Ubaid Khan, a dedicated software developer with a passion for crafting innovative solutions using Next.js and React.js. With 1 year of experience in the industry, I've honed my skills in MERN stack development through hands-on projects and specialized training.
